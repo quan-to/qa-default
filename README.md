@@ -4,7 +4,7 @@
 
 ![Shield Size Style](https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge)
 
-### Para um exemplo bacana e prático de como ficam os escudos/badges 👆 aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+#### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
