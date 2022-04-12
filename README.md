@@ -1,16 +1,35 @@
 <style>
+  .custom_centralize_img {
+    border: 5px solid #555;
+    display: block;
+    height:50%;
+    margin: 0 auto;
+    margin-bottom:15px;
+    margin-top:15px;
+    width:25%;
+  }
   .cards_div_main {
     align-items: center;
     display: flex;
     justify-content: center;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
   }
   .cards_div_child {
     float: left;
-    padding: 15px;
+    margin: 0 auto;
+    margin-bottom:15px;
+    margin-top:15px;
     text-align: middle;
-    width: 45%;
+    width: 40%;
+  }
+  .blink_me {
+    animation: blinker 1s linear infinite;
+  }
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
   }
 </style>
 
@@ -23,7 +42,7 @@
 #### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
 <div align="center">
-  <img src="exemplo-image.png" alt="exemplo imagem" style="width:25%; height:50%; display: block; margin: 0 auto; margin-top:15px; margin-bottom:15px; border: 5px solid #555;" />
+  <img src="exemplo-image.png" alt="exemplo imagem" class="custom_centralize_img"/>
 </div>
 
 ## 📋 Introdução ou Descrição
@@ -131,10 +150,8 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
   </div>
 </div>
 
-<div>
-  <span style="text-decoration: blink;">
+<div class="blink_me">
   <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
 
   [⬆ Voltar ao topo](#nome-do-projeto)
-  </span>
 </div>
