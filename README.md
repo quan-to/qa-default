@@ -10,7 +10,7 @@
 
 ## 📋 Introdução ou Descrição
 
-Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas tendem a ignorar conteúdos longos.
 
 ## 💻 Pré-requisitos
 
@@ -64,7 +64,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2022/04/05165526/empresas-que-contratam-para-trabalhar-na-internet.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Profissional de Tecnologia"/><br>
+        <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2022/04/05165526/empresas-que-contratam-para-trabalhar-na-internet.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Profissional de Tecnologia" />
+        <br>
         <sub>
           <b>Nome e Sobrenome</b>
         </sub>
@@ -72,7 +73,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Mark Zuckerberg" />
+        <br>
         <sub>
           <b>Mark Zuckerberg</b>
         </sub>
@@ -80,7 +82,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Steve Jobs"/><br>
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Steve Jobs" />
+        <br>
         <sub>
           <b>Steve Jobs</b>
         </sub>
@@ -88,7 +91,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
 
 ## 😄 Seja um dos contribuidores<br>
 
