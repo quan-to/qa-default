@@ -52,7 +52,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 <exemplo_de_uso>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis.
 
 ---
 
