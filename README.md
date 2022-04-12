@@ -1,6 +1,22 @@
+<style>
+  .cards_div_main {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    text-align: center;
+  }
+  .cards_div_child {
+    float: left;
+    padding: 15px;
+    text-align: middle;
+    width: 45%;
+  }
+</style>
+
 # Nome do projeto
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!-- Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença usando esse link. -->
 
 ![Shield Size Style](https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge)
 
@@ -17,7 +33,7 @@ Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+<!-- Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário. -->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
@@ -47,7 +63,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Contribuindo para o <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+<!-- Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado. -->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 1. Bifurque este repositório.
@@ -94,7 +110,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Seja um dos contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
@@ -102,4 +118,23 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+<div class="cards_div_main">
+  <div class="cards_div_child">
+  <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
+  
+  [![demo](https://github-readme-stats.vercel.app/api?username=devqasp&theme=cobalt)](https://github.com/quan-to/)
+  </div>
+  <div class="cards_div_child">
+  <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
+
+  [![demo](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=cobalt)](https://github.com/quan-to/)
+  </div>
+</div>
+
+<div>
+  <span style="text-decoration: blink;">
+  <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
+
+  [⬆ Voltar ao topo](#nome-do-projeto)
+  </span>
+</div>
