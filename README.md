@@ -170,12 +170,8 @@ Altere o `username` para o nome de usuário do GitHub.
   [![demo](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=cobalt)](https://github.com/quan-to/)
   </div>
 </div>
-
 <br />
-<div style="float: left; font-weight: bold;">
-  <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
 
-  [⬆ Voltar ao topo](#nome-do-projeto)
-</div>
+[⬆ Voltar ao topo](#nome-do-projeto)
 
 ---
