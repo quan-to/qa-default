@@ -172,7 +172,7 @@ Altere o `username` para o nome de usuário do GitHub.
 </div>
 
 <br />
-<div style="animation: fade 0.5s infinite alternate, shrink 0.53s infinite alternate;">
+<div style="float: left; font-weight: bold;">
   <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
 
   [⬆ Voltar ao topo](#nome-do-projeto)
