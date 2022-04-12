@@ -4,7 +4,7 @@
 
 ![Shield Size Style](https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge)
 
-#### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+#### 👆 Para visualizar um exemplo prático e bem apresentado de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o link: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
 <div align="center">
   <img src="exemplo-image.png" alt="exemplo imagem" style="border: 5px solid #555; display: block; height:50%; margin: 0 auto; margin-bottom:15px; margin-top:15px; width:25%;" />
@@ -115,7 +115,8 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
   </div>
 </div>
 
-<div class="blink_me">
+<br />
+<div>
   <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
 
   [⬆ Voltar ao topo](#nome-do-projeto)
