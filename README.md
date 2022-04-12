@@ -6,7 +6,7 @@
 
 #### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="exemplo-image.png" alt="exemplo imagem" style="width:25%; height:50%; display: block; margin: 0 auto; margin-top:15px; margin-bottom:15px; border: 5px solid #555;" />
 
 ## 📋 Introdução ou Descrição
 
@@ -64,7 +64,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2022/04/05165526/empresas-que-contratam-para-trabalhar-na-internet.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Profissional de Tecnologia" />
+        <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2022/04/05165526/empresas-que-contratam-para-trabalhar-na-internet.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle;" alt="Foto do Profissional de Tecnologia" />
         <br>
         <sub>
           <b>Nome e Sobrenome</b>
@@ -73,7 +73,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Mark Zuckerberg" />
+        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle;" alt="Foto do Mark Zuckerberg" />
         <br>
         <sub>
           <b>Mark Zuckerberg</b>
@@ -82,7 +82,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td valign="middle" align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle" alt="Foto do Steve Jobs" />
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" style="width:100px; height:100px; background-color:black; text-align:center; vertical-align:middle;" alt="Foto do Steve Jobs" />
         <br>
         <sub>
           <b>Steve Jobs</b>
