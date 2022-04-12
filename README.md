@@ -6,7 +6,9 @@
 
 #### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
-<img src="exemplo-image.png" alt="exemplo imagem" style="width:25%; height:50%; display: block; margin: 0 auto; margin-top:15px; margin-bottom:15px; border: 5px solid #555;" />
+<div align="center">
+  <img src="exemplo-image.png" alt="exemplo imagem" style="width:25%; height:50%; display: block; margin: 0 auto; margin-top:15px; margin-bottom:15px; border: 5px solid #555;" />
+</div>
 
 ## 📋 Introdução ou Descrição
 
