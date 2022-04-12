@@ -1,45 +1,3 @@
-<svg fill="none" viewBox="0 0 0 0" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
-  
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-      .custom_centralize_img {
-        border: 5px solid #555;
-        display: block;
-        height:50%;
-        margin: 0 auto;
-        margin-bottom:15px;
-        margin-top:15px;
-        width:25%;
-      }
-      .cards_div_main {
-        align-items: center;
-        display: flex;
-        justify-content: center;
-        padding: 10px;
-        text-align: center;
-      }
-      .cards_div_child {
-        float: left;
-        margin: 0 auto;
-        margin-bottom:15px;
-        margin-top:15px;
-        text-align: middle;
-        width: 40%;
-      }
-      .blink_me {
-        animation: blinker 1s linear infinite;
-      }
-      @keyframes blinker {
-        50% {
-          opacity: 0;
-        }
-      }
-      </style>
-    </div>
-  </foreignObject>
-</svg>
-
 # Nome do projeto
 
 <!-- Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença usando esse link. -->
@@ -49,7 +7,7 @@
 #### 👆 Para um exemplo bacana e prático de como ficam os escudos/badges (exemplo acima) aplicados ao repositório, segue o tutorial: 👉 https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
 <div align="center">
-  <img src="exemplo-image.png" alt="exemplo imagem" class="custom_centralize_img"/>
+  <img src="exemplo-image.png" alt="exemplo imagem" style="border: 5px solid #555; display: block; height:50%; margin: 0 auto; margin-bottom:15px; margin-top:15px; width:25%;" />
 </div>
 
 ## 📋 Introdução ou Descrição
@@ -144,13 +102,13 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-<div class="cards_div_main">
-  <div class="cards_div_child">
+<div style="align-items: center; display: block; justify-content: center; padding: 10px; text-align: center;">
+  <div style="float: left; margin: 0 auto; margin-bottom:15px; margin-top:15px; text-align: middle; width: 40%;">
   <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
   
   [![demo](https://github-readme-stats.vercel.app/api?username=devqasp&theme=cobalt)](https://github.com/quan-to/)
   </div>
-  <div class="cards_div_child">
+  <div style="float: left; margin: 0 auto; margin-bottom:15px; margin-top:15px; text-align: middle; width: 40%;">
   <!-- É necessário manter o pulo de linha para que o link funcione dentro de uma tag. -->
 
   [![demo](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=cobalt)](https://github.com/quan-to/)
