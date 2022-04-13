@@ -143,7 +143,7 @@ Altere o `username` para o nome de usuário do GitHub.
 ### Mostrar Linguagens
 
 ```md
-[![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
@@ -151,7 +151,7 @@ Altere o `username` para o nome de usuário do GitHub.
 ### ou
 
 ```md
-[![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
