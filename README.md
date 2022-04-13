@@ -127,7 +127,7 @@ Como usar? É simples! Copie e cole em seu conteúdo de markdown e pronto.
 Altere o `username` para o nome de usuário do GitHub.
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api?username=devqasp&theme=default)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api?username=github_username&theme=default)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api?username=devqasp&theme=default)](https://github.com/devqasp/)
@@ -135,7 +135,7 @@ Altere o `username` para o nome de usuário do GitHub.
 ### Adicionando icones :thumbsup:
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api?username=devqasp&theme=default&show_icons=true)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api?username=github_username&theme=default&show_icons=true)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api?username=devqasp&theme=default&show_icons=true)](https://github.com/devqasp/)
@@ -143,7 +143,7 @@ Altere o `username` para o nome de usuário do GitHub.
 ### Mostrar Linguagens
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=github_username&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact&theme=default)](https://github.com/devqasp/)
@@ -151,7 +151,7 @@ Altere o `username` para o nome de usuário do GitHub.
 ### ou
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=github_username&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
 ```
 
 [![devqasp](https://github-readme-stats.vercel.app/api/top-langs/?username=devqasp&hide=html&layout=compact=true&theme=default)](https://github.com/devqasp/)
